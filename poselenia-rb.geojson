@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Поселение": "Росы",
+        "Тип": "развитое поселение (проживает больше 10 человек)",
+        "Сайт": "http://rosy.by/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.77265167236328,
+          53.97981528819783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Поселение": "Звон-Гора",
+        "Тип": "развитое поселение (проживает больше 10 человек)",
+        "Сайт": "http://zvongora.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.567741394042972,
+          55.36916130540906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Поселение": "Дубично",
+        "Тип": " в поселении зимуют",
+        "Сайт": "http://ecoby.info/poselenies/dubichno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.056625366210934,
+          51.90477783258343
+        ]
+      }
+    }
+  ]
+}
