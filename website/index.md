@@ -4,7 +4,7 @@
 
 См. ["Родовое поместье - это..."](http://rodovoe-pomestie.by/ru/index.php)
 
-![Поместье - это...](http://soil.by/modx/assets/gallery/4/29.jpg)
+![Поместье - это...](http://cs320129.vk.me/v320129055/7064/XwCz8e5T7YY.jpg)
 ----
 
 ##Посёлок из Родовых поместий
@@ -13,7 +13,7 @@
 
 См. [пример проекта](http://www.ecology.md/section.php?section=ecoset&presentation=1) такого поселения (презентация).
 
-![Проект поселения (пример)](http://soil.by/modx/assets/gallery/4/30.jpg)
+![Проект поселения (пример)](http://cs320129.vk.me/v320129055/706b/sDk0Hg1LVug.jpg)
 ----
 
 ##Семья — Род — Община — Нация
